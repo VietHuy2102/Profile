@@ -24,7 +24,12 @@ export default function Projects() {
       live_link: "https://image-suki.vercel.app/",
       name: "Image App",
     },
-    { img: Project3, github_link: "", live_link: "", name: "Profile Page" },
+    {
+      img: Project3,
+      github_link: "https://github.com/VietHuy2102/Profile",
+      live_link: "https://profile-opal-omega.vercel.app/",
+      name: "Profile Page",
+    },
   ];
 
   return (
